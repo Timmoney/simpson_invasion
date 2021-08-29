@@ -1,11 +1,11 @@
 # Simpson Invasion
 
-Classic alien invasion game with simpson icons...
+Classic alien invasion game with the Simpson icons...
 
 ## Description
-
+![](images/game_img.png)
 Move left and right, Use spacebar to shoot.
-You got 3 lifes shows on top left.
+You got 3 lives shows on top left.
 The Score and level shows on the top right.
 
 ## Getting Started
@@ -16,7 +16,7 @@ Windows10
 
 ### Installing
 
-Download ans unzip the file
+Download and unzip the file
 
 ### Executing program
 
@@ -25,4 +25,3 @@ Run main.py
 ## Authors
 
 Tim Lin
-
